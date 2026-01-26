@@ -1,0 +1,22 @@
+# Obsidian cache & workspace (DO NOT commit)
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# Optional: ignore plugins settings (uncomment if you don't want them)
+# .obsidian/plugins/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE noise
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
