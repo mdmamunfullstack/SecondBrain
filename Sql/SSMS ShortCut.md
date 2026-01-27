@@ -43,3 +43,4 @@
 #  Show pinned tabs in a separate row
 ![[Pasted image 20260125233534.png]]
 
+#SQL 
