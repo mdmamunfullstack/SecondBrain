@@ -1,0 +1,28 @@
+```json
+{
+	"recommendations": [
+		// Angular development
+		"angular.ng-template",
+		"bradlc.vscode-tailwindcss",
+
+		// .NET development
+		"ms-dotnettools.csdevkit",
+		"ms-mssql.mssql",
+
+		// Testing frameworks
+		"vitest.explorer",
+		"ms-playwright.playwright",
+
+		// Formatting and linting
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+
+		// Additional helpful extensions
+		"ms-azuretools.vscode-containers",
+		"github.vscode-github-actions",
+		"GitHub.vscode-pull-request-github",
+		"eamodio.gitlens"
+	]
+}
+```
