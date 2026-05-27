@@ -43,4 +43,8 @@
 #  Show pinned tabs in a separate row
 ![[Pasted image 20260125233534.png]]
 
+## Copying formatted text out of a grid column.
+![[Pasted image 20260522100117.png]]
+
+
 #SQL 

@@ -1,0 +1,1 @@
+A reliable system does not ignore errors; it handles them properly. It provides meaningful responses, maintains proper logging, and enables developers to trace issues easily. Failure is not an unexpected incident—it is a natural part of system design. However, failures should be manageable and traceable. 

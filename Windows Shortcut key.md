@@ -12,9 +12,9 @@
 
 - **Ctrl + Shift + N** → New folder    
 - **Alt + Enter** → File/Folder properties
-- F2 → Rename selected file
-- **Delete** → Delete to Recycle Bin
-- **Shift + Delete** → Delete permanently
+- ~~F2 → Rename selected file~~
+- ~~**Delete** → Delete to Recycle Bin~~
+- ~~**Shift + Delete** → Delete permanently~~
 
 ---
 ## 🔍 Search & System
