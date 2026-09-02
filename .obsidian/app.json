@@ -7,5 +7,7 @@
   },
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Calendar"
 }

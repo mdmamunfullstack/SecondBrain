@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "authentication": 1,
+    "authorization": 2,
+    "clippings": 3,
+    "csharp": 4,
+    "debugging": 15,
+    "excalidraw": 5,
+    "git": 6,
+    "miscellaneous": 7,
+    "oop": 8,
+    "productivity": 14,
+    "productmanagement": 9,
+    "professionaldevelopment": 10,
+    "programming": 16,
+    "sql": 11,
+    "teammanagement": 12,
+    "tips": 13
+  },
+  "tagColors": {},
+  "_version": 4
+}

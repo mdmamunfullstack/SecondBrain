@@ -1,5 +1,7 @@
 # Course Summary: Getting Started with People Management
 
+Url :  https://app.pluralsight.com/ilx/video-courses/getting-started-management/resources
+
 I recently completed a course on **People Management** that focuses on the transition from being a successful individual contributor to becoming an effective people manager. The course follows the journey of _Maria_, a high-performing software developer who is promoted to lead a cross-functional product team.
 
 ## Key Lessons
@@ -94,4 +96,26 @@ The most valuable lesson for me was realizing that leadership is less about bein
 
 **As a manager, I will be measured by what my team delivers, how they grow, and how successful they become.**
 
-**My Success → My Team's Success.**
+**My Success → My Team's Success.** 
+
+
+
+![[Screenshot 2026-07-22 103220.png]]
+![[Screenshot 2026-07-22 103254.png]]
+
+![[Screenshot 2026-07-22 103349.png]]
+![[Screenshot 2026-07-22 103728.png]]
+![[Screenshot 2026-07-22 103809.png]]
+![[Screenshot 2026-07-22 103852.png]]![[Screenshot 2026-07-22 103930.png]]
+![[Screenshot 2026-07-22 104200.png]]
+![[Screenshot 2026-07-22 104215.png]]
+## Skills profile 
+- I Only Write Code 
+- The New One 
+- The Generalist 
+- The Unicorn 
+- The People Person
+Team Unicorn
+## Agreements build trust and help your team be successful.
+
+![[Screenshot 2026-07-22 104320.png]]
