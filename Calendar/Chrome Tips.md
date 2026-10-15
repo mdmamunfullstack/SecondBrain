@@ -14,3 +14,38 @@ You can adjust the size of text on a page by pressing CTRL + plus (+) or CTRL + 
 
 # Save to Google Drive
 
+
+**Google Keep tips**
+
+TIMESTAMPS
+00:00 Google Keep Tips for Productivity
+00:10 Best way to Capture Notes in Keep
+00:40 Google Keep Settings
+01:20 Hidden Search Feature
+01:54 Bullet Points in Google Keep
+02:25 Transfer Information from Keep
+03:34 Link Google Keep to Calendar
+04:17 Save Websites to Google Keep
+05:05 Filter Notes by Color
+05:45 Create Checklists in Google Keep
+06:11 Grab Image Text from Photos
+07:04 Capture Voice Notes in Keep
+
+
+- keep.new / note.new 
+- display rich   link previw
+Search Short cut
+https://keep.google.com/u/0/#search/text%253D%s
+
+e TO Archieve 
+
+Reference 
+Thoughts 
+notes
+Chipped 
+personal
+Shared
+
+
+👥 Meetings
+💡 Ideas

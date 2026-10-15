@@ -1,0 +1,27 @@
+## 11/10 
+- billing Configuration is working correctly 
+- admin Booking Last day select issue - sabuj vai
+- Webjob will based on CDC discuss with Nasir and chowdhury vai 
+- team meeting : 
+	- Query Optimizatin 
+	- Unit Test 
+	- Item test in development site and then push it for ready for QA 
+	- Item Status tract 
+	- Leave Track 
+	- Dependency komaite hobe
+- Next Patch Item 
+	- Bug 
+	- P0 cases 
+	- Duplicate Merge 
+	- Webjob Optimization 
+	- Discount  
+	- Payment Receipt 
+	- Admin Booking Hourly - sabuj
+	- Waitlist - Sayeem 
+	- 
+- Optimization 
+	- Dynamic Webjob
+	- Hourly Webjob
+- MID, DocId, FirstName, LastName Null rakha jabe na
+- Limit Attachment Size 
+- 

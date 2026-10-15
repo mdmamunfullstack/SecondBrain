@@ -5,7 +5,11 @@
 - CAP
 - ACID
 - BASE
-- SOLID
+- SOLID  
+
+
+
+
 
 ## Hoe  to load your website at lighting speed 
 - Compression
@@ -26,7 +30,11 @@
 - Database Server
 - Job  Worker
 - Full text  Search
-- Logging  & Monitoring 
+- Logging  & Monitoring   
+
+
+
+
 # Seven Must  know strategies to scale your database
 - Indexing 
 - Materialized  view
