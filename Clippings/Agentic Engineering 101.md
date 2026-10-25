@@ -65,7 +65,7 @@ Or simplier said:
 - Loop is the system.
 - Graph is the map.
 
-**One prompt, one window, one run, one goal, one workflow. Each layer out, you control more of the work.**
+**One prompt, one window, one run, one goal, one workflow. Each layer out, you control more of the work.****
 
 
 ## A disciplined workflow might look like this:
